@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch testServer",
+            "request": "launch",
+            "mainClass": "testServer",
+            "projectName": "minidatabase_7586b5cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyClient",
+            "request": "launch",
+            "mainClass": "MyClient",
+            "projectName": "minidatabase_7586b5cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestServer",
+            "request": "launch",
+            "mainClass": "TestServer",
+            "projectName": "minidatabase_7586b5cb"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateTable",
+            "request": "launch",
+            "mainClass": "CreateTable",
+            "projectName": "minidatabase_7586b5cb"
+        },
+        {
+            "type": "java",
             "name": "Launch solution",
             "request": "launch",
             "mainClass": "solution",

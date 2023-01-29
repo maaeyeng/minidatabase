@@ -3,12 +3,17 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 class ServerScreen  {
+    // Set Frame Screen Server Info
+    // Set Component & position on frane label textfiled button 
+    // Add component to panel 
+    // add panel to frame 
+    // show 
     public static void main(String[] args) {  
-        JFrame f=new JFrame("Server info");  
+        JFrame f=new JFrame("Database Server Setting");  
 
                 // initializing the labels   
-                JLabel l1 = new JLabel ("Server Name");   
-                JLabel l2 = new JLabel ("Port Number");   
+        JLabel l1 = new JLabel ("Server Name");   
+         JLabel l2 = new JLabel ("Port Number");   
               
                 // set the location of label  
                 l1.setBounds(20,50,100,20);  

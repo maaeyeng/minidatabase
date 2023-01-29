@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": [
+        "gui",
+        "core/server"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
