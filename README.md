@@ -1,9 +1,9 @@
 # minidatabase for SME Project
 
-## Table of Content
 ## 1. Database Server
 ## 2. ERP System
 
+## Table of Content
 ### 1. Introduction
 ### 2. Concept of minidatabase SEM
 ### 3. Workflow
