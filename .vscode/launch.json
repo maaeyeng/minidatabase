@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ReturnDigestUserInterface",
+            "request": "launch",
+            "mainClass": "ReturnDigestUserInterface",
+            "projectName": "minidatabase_7586b5cb"
+        },
+        {
+            "type": "java",
             "name": "Launch testServer",
             "request": "launch",
             "mainClass": "testServer",
